@@ -2,16 +2,18 @@
 
 A full-stack dashboard built with a **Next.js** frontend and a **Python backend**.
 
+<img src="https://i.ibb.co/RGSt8kB9/image.png" alt="Dashboard Preview" />
+
 ---
 
 ## Project Structure
 
 ```
 project-root/
-├── backend/        # Python backend (API)
+├── backend/        # Python backend (FastAPI)
 │   ├── requirements.txt
 │   ├── .env.example
-├── frontend/       # Next.js + ShadCN dashboard
+├── frontend/       # Next.js dashboard
 │   ├── package.json
 └── README.md       # Setup & usage guide
 
@@ -65,7 +67,7 @@ cp .env.example .env # Mac/Linux
 copy .env.example .env # Windows
 ```
 
-5. Fill in your Firebase credentials in a `.env`.
+5. Fill in the Firebase credentials in a `.env`.
 
 6. Run the backend server:
    In backend/ (`cd backend`)

@@ -2,6 +2,8 @@
 
 A full-stack dashboard built with a **Next.js** frontend and a **Python backend**.
 
+![Dashboard Preview](https://i.ibb.co/8nBGkLd0/image.png)
+
 ---
 
 ## Project Structure

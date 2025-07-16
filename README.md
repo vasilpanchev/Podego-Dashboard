@@ -2,7 +2,7 @@
 
 A full-stack dashboard built with a **Next.js** frontend and a **Python backend**.
 
-![Dashboard Preview](https://i.ibb.co/RGSt8kB9/image.png)
+<img src="https://i.ibb.co/RGSt8kB9/image.png" alt="Dashboard Preview" />
 
 ---
 

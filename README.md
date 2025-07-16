@@ -67,7 +67,7 @@ cp .env.example .env # Mac/Linux
 copy .env.example .env # Windows
 ```
 
-5. Fill in your Firebase credentials in a `.env`.
+5. Fill in the Firebase credentials in a `.env`.
 
 6. Run the backend server:
    In backend/ (`cd backend`)

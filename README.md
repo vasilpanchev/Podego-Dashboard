@@ -8,10 +8,10 @@ A full-stack dashboard built with a **Next.js** frontend and a **Python backend*
 
 ```
 project-root/
-├── backend/        # Python backend (API)
+├── backend/        # Python backend (FastAPI)
 │   ├── requirements.txt
 │   ├── .env.example
-├── frontend/       # Next.js + ShadCN dashboard
+├── frontend/       # Next.js dashboard
 │   ├── package.json
 └── README.md       # Setup & usage guide
 
